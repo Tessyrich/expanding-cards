@@ -39,7 +39,7 @@ body {
   }
 
   .cont.active{
-    flex: 2;
+    flex: 4;
   }
 
   .cont.active h3 {
